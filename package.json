@@ -1,11 +1,22 @@
 {
-  "name": "newfile",
+  "name": "pingan",
   "version": "1.0.0",
-  "description": "",
+  "description": "\"this is pingan\"",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "pingyinan",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PYAGitHub/hello.git"
+  },
+  "keywords": [
+    "\"an\""
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PYAGitHub/hello/issues"
+  },
+  "homepage": "https://github.com/PYAGitHub/hello#readme"
 }
